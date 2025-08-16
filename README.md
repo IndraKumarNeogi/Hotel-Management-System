@@ -220,8 +220,8 @@ UPDATE rooms SET price_per_night = 3000.00 WHERE room_number = 101;
 
 ## 🖊 Author
 
-Indra Kumar Neogi
-gmail: indra.kumar.neogi@gmail.com
+Indra Kumar Neogi | 
+gmail: indra.kumar.neogi@gmail.com | 
 linkedin: [linkedin.com/in/indra-kumar-neogi](https://www.linkedin.com/in/indra-kumar-neogi-bbb34a268)
 
 ## 📞 Support
@@ -238,3 +238,4 @@ This project is open-source and available for educational and commercial use.
 ---
 
 **Created with ❤️ for the hospitality industry**
+
